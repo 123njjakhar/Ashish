@@ -14,14 +14,14 @@ BOT_TOKEN = getenv("BOT_TOKEN", "")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐑𝐎𝐁𝐎𝐓")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "─ͥ─⃜⃜ᷟ͢͢⎼⎼⎼⃡⃝⃨🇸𝐎𝐍𝐀⛦⃕͜𝐗ᴅ ⃪آ͢آ❤️‍🔥آ꯭࿐𓆪")
 
-OWNER_ID = list(map(int, getenv("OWNER_ID", "5749950954").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "5920864174").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/123njjakhar/baap")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/123njjakhar/Ashish")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
